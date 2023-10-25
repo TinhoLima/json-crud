@@ -1,9 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "users": [
+    {
+      "id": 1,
+      "name": "Alison Coutinho",
+      "email": "altinho@tinho.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@empresa.com"
+    },
+    {
+      "name": "Alison",
+      "email": "alison@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Coutinho Alison",
+      "email": "alison@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Luciene",
+      "email": "luciene@gmail.com",
+      "id": 7
+    }
+  ]
 }
