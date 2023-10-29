@@ -16,14 +16,9 @@
       "id": 3
     },
     {
-      "name": "Coutinho Alison",
-      "email": "alison@gmail.com",
-      "id": 6
-    },
-    {
-      "name": "Luciene",
-      "email": "luciene@gmail.com",
-      "id": 7
+      "name": "teste name",
+      "email": "email@teste.com",
+      "id": 4
     }
   ]
 }
