@@ -3,20 +3,24 @@
     {
       "id": 1,
       "name": "Alison Coutinho",
+      "pet": "Dora",
       "email": "altinho@tinho.com"
     },
     {
       "id": 2,
       "name": "Maria Julia da Silva",
+      "pet": "Dora",
       "email": "mjds@empresa.com"
     },
     {
       "name": "Alison",
+      "pet": "Dora",
       "email": "alison@gmail.com",
       "id": 3
     },
     {
       "name": "teste name",
+      "pet": "Dora",
       "email": "email@teste.com",
       "id": 4
     }
