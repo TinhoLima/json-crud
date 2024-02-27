@@ -2,57 +2,39 @@
   "users": [
     {
       "id": 1,
-      "sala": 1,
-      "horario": "08:00",
-      "paciente": "Joao Celestino Silva",
-      "procedimento": "Neurocirurgia",
-      "medico": "Dr. barreto",
-      "status": "ocupado"
+      "name": "Alison Coutinho",
+      "pet": "Banguela",
+      "tipo": "Cachorro",
+      "sexo": "Macho",
+      "raca": "caramelo",
+      "email": "altinho@tinho.com"
     },
     {
       "id": 2,
-      "sala": 2,
-      "horario": "09:00",
-      "paciente": "Benedito T. da Silva",
-      "procedimento": "Neurocirurgia",
-      "medico": "Dr. barreto",
-      "status": ""
+      "name": "Luciene Mendonça",
+      "pet": "Morgana",
+      "tipo": "Gato",
+      "sexo": "Fêmea",
+      "raca": "SRD",
+      "email": "mjds@empresa.com"
     },
     {
       "id": 3,
-      "sala": 3,
-      "horario": "10:00",
-      "paciente": "Roberto T. da Silva",
-      "procedimento": "Neurocirurgia",
-      "medico": "Dr. barreto",
-      "status": ""
+      "name": "Iracema Barreto",
+      "pet": "Belinha",
+      "tipo": "Gato",
+      "sexo": "Fêmea",
+      "raca": "SRD",
+      "email": "alison@gmail.com"
     },
     {
       "id": 4,
-      "sala": 2,
-      "horario": "11:00",
-      "paciente": "Benedito T. da Silva",
-      "procedimento": "Neurocirurgia",
-      "medico": "Dr. barreto",
-      "status": ""
-    },
-    {
-      "id": 5,
-      "sala": 4,
-      "horario": "12:00",
-      "paciente": "Benedito T. da Silva",
-      "procedimento": "Neurocirurgia",
-      "medico": "Dr. barreto",
-      "status": ""
-    },
-    {
-      "id": 6,
-      "sala": 1,
-      "horario": "13:00",
-      "paciente": "Benedito T. da Silva",
-      "procedimento": "Neurocirurgia",
-      "medico": "Dr. barreto",
-      "status": ""
+      "name": "Cristina da Silva",
+      "pet": "Dora",
+      "tipo": "Gato",
+      "sexo": "Fêmea",
+      "raca": "SRD",
+      "email": "email@teste.com"
     }
   ]
 }
